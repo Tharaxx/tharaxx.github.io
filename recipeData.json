@@ -1,0 +1,206 @@
+
+{ "Recipes": [
+{
+    "Recipe" : "Paella",
+    "Info": "https://www.101cookbooks.com/vegetarian-paella/"
+},
+{
+    "Recipe" : "Butternut Lasagna",
+    "Info": "https://www.feastingathome.com/butternut-lasagna-with-mushrooms-and-sage/" 
+},
+{
+    "Recipe" : "Vegetarian Fajitas",
+    "Info": "https://www.bbcgoodfood.com/recipes/veggie-fajitas"
+},
+{
+    "Recipe" : "Indian Chickpea Salad",
+    "Info": "https://www.bbcgoodfood.com/recipes/indian-chickpeas-poached-eggs" 
+},
+{
+    "Recipe" : "Asparagus Stir-fry",
+    "Info": "https://www.jamieoliver.com/recipes/vegetable-recipes/asparagus-stir-fry/"
+},
+{
+    "Recipe" : "Vegetarian Sheperd's Pie",
+    "Info": "https://www.delish.com/cooking/recipe-ideas/a30779578/vegan-shepherds-pie-recipe/" 
+},
+{
+    "Recipe" : "Mushroom Polenta",
+    "Info": "https://www.feastingathome.com/chanterelles-with-creamy-polenta-and-sage/"
+},
+{
+    "Recipe" : "Vegetarian Chili",
+    "Info": "https://www.delish.com/cooking/recipe-ideas/recipes/a58454/easy-vegan-chili-recipe/" 
+},
+{
+    "Recipe" : "Lemon Cucumber Couscous",
+    "Info": "https://www.budgetbytes.com/lemony-cucumber-couscous-salad/"
+},
+{
+    "Recipe" : "Cowboy Caviar",
+    "Info": "https://www.budgetbytes.com/cowboy-caviar/" 
+},
+{
+    "Recipe" : "Spinach Paneer Pulao",
+    "Info": "https://www.deliciousmagazine.co.uk/recipes/spinach-and-paneer-pulao/"
+},
+{
+    "Recipe" : "Vegetarian Moussaka",
+    "Info": "https://www.deliciousmagazine.co.uk/recipes/veggie-moussaka/" 
+},
+{
+    "Recipe" : "Peanut Coleslaw",
+    "Info": "https://cookieandkate.com/peanut-soba-noodle-slaw-recipe/"
+},
+{
+    "Recipe" : "Minestrone Soup",
+    "Info": "https://cookieandkate.com/classic-minestrone-soup-recipe/" 
+},
+{
+    "Recipe" : "Stuffed Bell Pepers",
+    "Info": "https://www.aheadofthyme.com/easy-vegan-stuffed-bell-peppers/"
+},
+{
+    "Recipe" : "Cauliflower Tacos",
+    "Info": "https://www.aheadofthyme.com/cauliflower-tacos/" 
+},
+{
+    "Recipe" : "Singapore Noodles",
+    "Info": "https://www.olivemagazine.com/recipes/vegan/singapore-noodles/"
+},
+{
+    "Recipe" : "Courgette Frittata",
+    "Info": "https://www.olivemagazine.com/recipes/vegetarian/courgette-frittata/" 
+},
+{
+    "Recipe" : "Mexican Quinoa",
+    "Info": "https://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/"
+},
+{
+    "Recipe" : "White Bean Shakshuka",
+    "Info": "https://www.makingthymeforhealth.com/one-pot-vegan-white-bean-shakshuka/" 
+},
+{
+    "Recipe" : "Lentil Soup",
+    "Info": "https://www.mydarlingvegan.com/lentil-soup-recipe/#wprm-recipe-container-21383"
+},
+{
+    "Recipe" : "Sweet Potato Burrito Bowl",
+    "Info": "https://www.heynutritionlady.com/one-pan-roasted-sweet-potato-burrito-bowls/" 
+},
+{
+    "Recipe" : "Paella",
+    "Info": "https://www.101cookbooks.com/vegetarian-paella/"
+},
+{
+    "Recipe" : "Tofu Coconut Curry",
+    "Info": "https://www.yayforfood.com/recipes/tofu-coconut-curry/" 
+},
+
+{
+    "Recipe" : "Corn Chowder",
+    "Info": "https://www.hummusapien.com/vegan-corn-chowder/"
+},
+{
+    "Recipe" : "Vegetarian Jambalaya",
+    "Info": "https://www.easycheesyvegetarian.com/one-pot-vegan-jambalaya/" 
+},
+{
+    "Recipe" : "Vegetarian Gnocchi",
+    "Info": "https://www.theedgyveg.com/2017/05/09/one-pot-pasta-sausage-gnocchi-vegan/"
+},
+{
+    "Recipe" : "Thai Chickpea Green Curry",
+    "Info": "https://www.pickuplimes.com/recipe/thai-sweet-potato-chickpea-green-curry-170" 
+},
+{
+    "Recipe" : "French Ratatouille",
+    "Info": "https://mypureplants.com/ratatouille/"
+},
+{
+    "Recipe" : "Vegetable Risotto",
+    "Info": "https://minimalistbaker.com/creamy-vegetable-risotto-30-minutes/" 
+},
+{
+    "Recipe" : "Salsa Verde Baked Eggs",
+    "Info": "https://themodernproper.com/salsa-verde-baked-eggs"
+},
+
+{
+    "Recipe" : "Lentil Soup",
+    "Info": "https://www.mydarlingvegan.com/lentil-soup-recipe/#wprm-recipe-container-21383"
+},
+{
+    "Recipe" : "Mediterranean Goujon Traybake",
+    "Info": "https://realfood.tesco.com/recipes/mediterranean-goujon-traybake.html" 
+},
+{
+    "Recipe" : "Chickpea Korma",
+    "Info": "https://realfood.tesco.com/recipes/plant-chef-chickpea-korma.html"
+},
+{
+    "Recipe" : "Veggie Strata",
+    "Info": "https://weelicious.com/veggie-dinner-strata-recipe/" 
+},
+{
+    "Recipe" : "Vegetarian Spaghetti Pie",
+    "Info": "https://weelicious.com/vegetarian-spaghetti-pie-recipe/"
+},
+{
+    "Recipe" : "Sweet Potato Burgers",
+    "Info": "https://vegsoc.org/recipes/sweet-potato-burger-with-griddled-pineapple-chilli-salsa/" 
+},
+{
+    "Recipe" : "Baked Beetroot with Quorn",
+    "Info": "https://vegsoc.org/recipes/baked-beetroot-with-quorn-and-lemon-tagine/"
+},
+{
+    "Recipe" : "Italian Aubergine Traybake",
+    "Info": "https://www.bbcgoodfood.com/recipes/italian-aubergine-traybake" 
+},
+{
+    "Recipe" : "Caponata Stew",
+    "Info": "https://www.bbcgoodfood.com/recipes/easy-caponata"
+},
+{
+    "Recipe" : "Grilled Portobello Mushroom Sandwiches",
+    "Info": "https://www.vegetariantimes.com/recipes/grilled-portobello-sandwich/" 
+},
+{
+    "Recipe" : "Gazpacho",
+    "Info": "https://www.vegetariantimes.com/recipes/this-summer-gazpacho-will-cool-you-off-on-the-hottest-days/"
+},
+{
+    "Recipe" : "Pizzoccheri Buckwheat Pasta",
+    "Info": "https://www.greatitalianchefs.com/recipes/pizzoccheri-recipe" 
+},
+{
+    "Recipe" : "Sorrento Cannelloni",
+    "Info": "https://www.greatitalianchefs.com/recipes/sorrento-style-cannelloni-recipe"
+},
+{
+    "Recipe" : "Chao He Cai Stir-fry",
+    "Info": "https://thewoksoflife.com/chao-he-cai-harmony-stir-fry/" 
+},
+{
+    "Recipe" : "Vegetable Moo Shu",
+    "Info": "https://thewoksoflife.com/vegetable-moo-shu/"
+},
+{
+    "Recipe" : "Cauliflower Mushroom Bolognese",
+    "Info": "https://www.simplyrecipes.com/recipes/roasted_cauliflower_and_mushroom_bolognese/" 
+},
+{
+    "Recipe" : "Three Sisters Casserole",
+    "Info": "https://www.simplyrecipes.com/recipes/three_sisters_casserole_with_cornbread_topping//"
+},
+{
+    "Recipe" : "Heritage Tomato Tart",
+    "Info": "https://www.telegraph.co.uk/recipes/0/quick-easy-heritage-tomato-tart-recipe/" 
+},
+{
+    "Recipe" : "Menemen Turkish Eggs",
+    "Info": "https://www.telegraph.co.uk/recipes/0/menemen-turkish-eggs-recipe/"
+}
+]
+}

@@ -1,0 +1,71 @@
+body {
+    background-image: url('Wallpaper-HD-Food-Picture.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+title {
+    font-family: 'Trebuchet MS' }
+h1 { font-family: 'Brush Script MT'}
+h2 { font-family: 'Trebuchet MS'}
+h3 { font-family: 'Trebuchet MS' }
+h1 { font-size: 150px;}
+h2 { font-size: 48px;}
+h3 { font-size: 25px;}
+h1 { color:rgba(15, 62, 104, 0.555)}
+h3 { color:rgba(15, 62, 104, 0.932)}
+h2 { color:rgba(27, 150, 58, 0.911)}
+h1 { text-align: center; }
+h2 { text-align: center; }
+h3 { text-align: center;}
+h2 { font-style: italic;}
+.hidebody{
+    visibility: hidden;
+}
+h4 {color:rgba(93, 140, 233, 0.932)}
+h4 {text-align: center; }
+h4 {font-style: italic;}
+h4 {font-family: 'Trebuchet MS'}
+h4 {font-size: 40px;}
+
+
+button {
+background-color: #4CAF50;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+font-family: 'Trebuchet MS';
+display: inline-block;
+font-size: 30px;
+margin: 4px 2px;
+cursor: pointer;
+}
+
+table { font-size: 25px;}
+table { color:rgba(11, 70, 19, 0.959)}
+table { font-family: 'Trebuchet MS';}
+table.center {
+margin-left:auto; 
+margin-right:auto;
+}
+th, td {
+padding: 15px;
+}
+
+table {
+    border-collapse:separate;
+    border-spacing: 0;
+    width: 70%;
+    border: 1px solid rgba(250, 249, 249, 0.705);
+    background-color: rgba(136, 201, 133, 0.747);
+    padding: 16px;
+    
+  }
+  
+  th, td {
+      border: 1px solid rgba(250, 248, 248, 0.705);
+    
+  }
+  
